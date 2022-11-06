@@ -1,4 +1,4 @@
-# Proyecto frotend y backend ciclo 4 UdeCaldas
+# Proyecto frontend y backend ciclo 4 UdeCaldas
 Repositorio para Documentos del Proyecto
 
 Repositorio Proyecto de Desarrollo de Software 
